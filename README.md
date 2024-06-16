@@ -1,4 +1,4 @@
-# FlightSimulator
+# Propel Star Wars Battle Drones
 Star Wars drones flight simulator
 星球大战无人机飞行模拟器安装配置
 
