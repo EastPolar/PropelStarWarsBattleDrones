@@ -22,3 +22,6 @@ https://github.com/EastPolar/PropelStarWarsBattleDrones/blob/main/ConnectionConf
 
 6. 配置结果测试
 https://scratch.mit.edu/
+
+7. 配置说明
+https://paste.gg/p/yckeyi/01a9a3a6c8fd4081b75fe4207b8ebb07
