@@ -6,9 +6,10 @@ Star Wars Drones Flight Training Simulator
 1.安装APP（更新：2024年06月10日）
 
   https://github.com/EastPolar/PropelStarWarsBattleDrones/releases
-  * 星战模拟器安装包：Propel_StarWars_BattleDrones_v6.3.196.xapk
+  * 星战模拟器安装包：  [Propel_StarWars_BattleDrones_v6.3.196.xapk](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/1.Propel_StarWars_BattleDrones_v6.3.196.xapk)
   * 星战模拟器安装辅助：APKPure_v3.18.95.apk
   * 星战模拟器连接软件：cmfa-2.10.1-meta-alpha-armeabi-v7a-release.apk
+  * 星战模拟器连接软件：connectionconfiguration.fly
 
 2.配置网址1（更新：2024年06月16日）
 
