@@ -1,7 +1,7 @@
 # Propel Star Wars Battle Drones
-Star Wars Drones Flight Training Simulator
+## Star Wars Drones Flight Training Simulator
 
-星球大战无人机飞行训练模拟器
+## 星球大战无人机飞行训练模拟器
 
 1.安装APP（更新：2024年06月10日）
 
