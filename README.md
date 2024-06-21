@@ -3,11 +3,11 @@
 
 ## 星球大战无人机飞行训练模拟器
 
-1.安装APP（更新：2024年06月10日）
+1.安装APP（更新：2024年06月21日）
 
   https://github.com/EastPolar/PropelStarWarsBattleDrones/releases
   * 星战模拟器安装包：　[1.Propel_StarWars_BattleDrones_v6.3.196.xapk](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/1.Propel_StarWars_BattleDrones_v6.3.196.xapk)
-  * 星战模拟器安装辅助：[2.APKPure_v3.18.95.apk](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/2.APKPure_v3.18.95.apk)
+  * 星战模拟器安装辅助：[2.APKPure_v3.20.0801.apk](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/2.APKPure_v3.20.0801.apk)
   * 星战模拟器连接软件：[3.cmfa-2.10.1-meta-alpha-arm64-v8a-release.apk](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/3.cmfa-2.10.1-meta-alpha-arm64-v8a-release.apk)
   * 星战模拟器连接配置：[4.connectionconfiguration.fly](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/4.ConnectionConfiguration.fly)
 
