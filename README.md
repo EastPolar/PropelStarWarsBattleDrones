@@ -7,7 +7,7 @@
 
   * [星战模拟器所有APP](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases)
   * 1.星战模拟器安装包：　[1.Propel_StarWars_BattleDrones_v6.3.196.xapk](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/1.Propel_StarWars_BattleDrones_v6.3.196.xapk)
-  * 2.星战模拟器安装辅助：[2.1.APKPure.Lite_1.0.5_arm.apk](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/2.1.APKPure.Lite_1.0.5_arm.apk)
+  * 2.星战模拟器安装辅助：[2.1.APKPure_Lite_1.0.5_arm.apk](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/2.1.APKPure_Lite_1.0.5_arm.apk)
   * 3.星战模拟器连接软件：[3.1.cmfa-2.10.1-meta-alpha-arm64-v8a-release.apk](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/3.1.cmfa-2.10.1-meta-alpha-arm64-v8a-release.apk)
   * 4.星战模拟器连接配置：[4.connectionconfiguration.fly](https://github.com/EastPolar/PropelStarWarsBattleDrones/releases/download/v0.1/4.ConnectionConfiguration.fly)
 
